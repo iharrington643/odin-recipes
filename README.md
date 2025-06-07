@@ -1,1 +1,1 @@
-# odin-recipes
+The goal of the Odin Recipes Project is to use what I have learned so far about HTML to create a site of my own that displays various recipes.  Some examples of HTML elements that that I will utilize in the building of this project are: elements, tags, boilerplates, text manipulation, lists, images, and links.  Through this project, I plan to demonstrate my understanding of these elements and of HTML in general.
