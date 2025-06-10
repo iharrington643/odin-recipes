@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+* {
+    font-family: 'Georgia';
+    font-style: italic;
+    color: brown;
+}
+
+h1 {
+    text-align: center;
+    font-size: 120px;
+}
+
+ul {
+    background-color: rgb(240, 232, 186);
+    list-style-position: inside;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: auto;
+    width: 1200px;
+    border: 10px solid brown;
+}
+
+ul li {
+    padding: 20px;
+}
